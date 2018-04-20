@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriptoAzureStorageConsole", "CriptoAzureStorageConsole\CriptoAzureStorageConsole.csproj", "{8F75EA29-F84D-463A-AD6F-057E905C5FE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriptoAzureStorageConsoleCore", "CriptoAzureStorageConsoleCore\CriptoAzureStorageConsoleCore.csproj", "{A937145A-962D-4829-BF5E-B17D1ABFACC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8F75EA29-F84D-463A-AD6F-057E905C5FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F75EA29-F84D-463A-AD6F-057E905C5FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F75EA29-F84D-463A-AD6F-057E905C5FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A937145A-962D-4829-BF5E-B17D1ABFACC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A937145A-962D-4829-BF5E-B17D1ABFACC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A937145A-962D-4829-BF5E-B17D1ABFACC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A937145A-962D-4829-BF5E-B17D1ABFACC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
